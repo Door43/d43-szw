@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[szw:home|Door43 (szw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-szw|d43-szw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-szw/archive/master.zip|d43-szw.zip]]
+
+**Recent Changes**
+{{changes>ns = szw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/szw|Ethnologue data]]
+
